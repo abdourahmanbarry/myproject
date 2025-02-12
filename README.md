@@ -1,9 +1,9 @@
 Notation: $I_{a,b}$ represents the current flowing into Bus b from the branch connecting Bus a and Bus b, $I_{G,a}$ the current from generator a, $I_{L,a}$ the current from load a, and $V_a$ the voltage at Bus a.
 
 Bus equations:
-$$I_{G,1}+I_{2,1}+I_{3,1}+L_{L,1} = 0$$
-$$I_{L,2}+I_{1,2}+I_{3,2} = 0$$
-$$I_{G,3}+I_{1,3}+I_{2,3} = 0$$
+```math I_{G,1}+I_{2,1}+I_{3,1}+L_{L,1} = 0```
+```math I_{L,2}+I_{1,2}+I_{3,2} = 0 ```
+```math I_{G,3}+I_{1,3}+I_{2,3} = 0 ```
 
 Branch equations:
 (branch connecting Bus 1 and Bus 2)
