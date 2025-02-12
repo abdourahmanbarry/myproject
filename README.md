@@ -49,4 +49,5 @@ Branch equations:
 ```
 
     Load equations:
-    ```math L_{L,1} = \frac{V_1}{R_1} ``` and  ```mathI_{L,2} = \frac{V_2}{R_2}```
+    ```math L_{L,1} = \frac{V_1}{R_1} ``` 
+    ```mathI_{L,2} = \frac{V_2}{R_2}```
