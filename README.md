@@ -7,14 +7,16 @@ $$I_{G,3}+I_{1,3}+I_{2,3} = 0$$
 
 Branch equations:
 (branch connecting Bus 1 and Bus 2)
-$\left[ \begin{array}{c}
+```math
+\left[ \begin{array}{c}
         I_{2,1} \\
         I_{1,2}
     \end{array}\right] = 
     Y^{[1]}\left[ \begin{array}{c}
         V_1 \\
         V_2
-\end{array}\right]$
+\end{array}\right]
+```
 
 (branch connecting Bus 2 and Bus 3)
 $$\left[ \begin{array}{c}
