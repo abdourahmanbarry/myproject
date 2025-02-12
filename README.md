@@ -2,7 +2,7 @@ Notation: $I_{a,b}$ represents the current flowing into Bus b from the branch co
 
 Bus equations:
 ```math 
-I_{G,1}+I_{2,1}+I_{3,1}+I_{I,1} = 0
+I_{G,1}+I_{2,1}+I_{3,1}+I_{L,1} = 0
 ```
 ```math
 I_{L,2}+I_{1,2}+I_{3,2} = 0
