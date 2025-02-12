@@ -48,10 +48,10 @@ Branch equations:
     \end{array}\right]
 ```
 
-    Load equations:
-    ```math
-    I_{L,1} = \frac{V_1}{R_1} 
-    ``` 
-    ```math
+ Load equations:
+```math
+ I_{L,1} = \frac{V_1}{R_1} 
+``` 
+```math
     I_{L,2} = \frac{V_2}{R_2}
-    ```
+```
