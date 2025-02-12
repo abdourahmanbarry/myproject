@@ -25,24 +25,28 @@ Branch equations:
 ```
 
 (branch connecting Bus 2 and Bus 3)
-$$\left[ \begin{array}{c}
+```math
+\left[ \begin{array}{c}
         I_{3,2} \\
         I_{2,3}
     \end{array}\right] = 
     Y^{[1]}\left[ \begin{array}{c}
         V_2 \\
         V_3
-    \end{array}\right]$$
+    \end{array}\right]
+```
 
 (branch connecting Bus 1 and Bus 3)
-$$\left[ \begin{array}{c}
+```math
+\left[ \begin{array}{c}
         I_{3,1} \\
         I_{1,3}
     \end{array}\right] = 
     Y^{[1]}\left[ \begin{array}{c}
         V_1 \\
         V_3
-    \end{array}\right]$$
+    \end{array}\right]
+```
 
     Load equations:
-    $$L_{L,1} = \frac{V_1}{R_1} \quad \text{and} \quad I_{L,2} = \frac{V_2}{R_2}$$
+    $L_{L,1} = \frac{V_1}{R_1} $ and $ I_{L,2} = \frac{V_2}{R_2}$
