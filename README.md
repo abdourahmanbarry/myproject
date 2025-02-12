@@ -30,7 +30,7 @@ Branch equations:
         I_{3,2} \\
         I_{2,3}
     \end{array}\right] = 
-    Y^{[1]}\left[ \begin{array}{c}
+    Y^{[2]}\left[ \begin{array}{c}
         V_2 \\
         V_3
     \end{array}\right]
@@ -42,7 +42,7 @@ Branch equations:
         I_{3,1} \\
         I_{1,3}
     \end{array}\right] = 
-    Y^{[1]}\left[ \begin{array}{c}
+    Y^{[3]}\left[ \begin{array}{c}
         V_1 \\
         V_3
     \end{array}\right]
