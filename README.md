@@ -56,3 +56,9 @@ I_{G,3}+I_{1,3}+I_{2,3} = 0
 ```math
     I_{L,2} = \frac{V_2}{R_2}
 ```
+
+## Generator 1
+
+```math
+\dot{\delta} = \omega \dot \omega_0
+```
