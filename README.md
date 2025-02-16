@@ -68,11 +68,11 @@ $$\dot{\psi}_{dp} = \frac{1}{T_{dopp}} \left( E_{qp} - \psi_{dp} - X_{d2} I_d \r
 ```
 ```math
 \dot{E}_{dp} = \frac{1}{T_{qop}}\left(-E_{dp} + X_{qd}\psi_{qpp} + X_{q1} \left(I_q - X_{q3} \left(E_{dp} + I_qX_{q2} - \psi_{qp}\right)\right)\right)
-```
+``` 
 Algebraic equations:
 ```math
 V_d = -\psi_{qpp}(\psi_{qp^{\prime}}E_{dp})(1+\omega)
-```
+```<br>
 ```math
 V_q = -\psi_{dpp}(\psi_{dp^{\prime}}E_{qp})(1+\omega)
 ```
