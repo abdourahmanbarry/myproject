@@ -60,7 +60,7 @@ I_{G,3}+I_{1,3}+I_{2,3} = 0
 ## Generator 1
 Differential equations: <br>
 ```math
-\dot{\delta} = \omega \cdot \omega_0 $$
+\dot{\delta} = \omega \cdot \omega_0 
 ```
 ```math
 \dot{\omega} = \frac{1}{2H}\left( \frac{P_{mech} - D\omega}{1+\omega} - T_{elec}\right)
@@ -89,6 +89,8 @@ I_d = I_r\sin\,\sin(\delta) - I_i\cos\,\cos(\delta)
 ```
 ```math
 I_q = I_r\cos\,\cos(\delta) + I_i\sin(\delta)
+
+Network interfaces:
 ```
 ```math
 V_d = V_r\sin\,\sin(\delta) - V_i\cos\,\cos(\delta) - (I_d R_a  -I_q X_{qpp})
