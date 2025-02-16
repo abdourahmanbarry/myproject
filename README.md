@@ -97,10 +97,7 @@ V_d = V_{1,r}\sin\,\sin(\delta) - V_{1,i}\cos\,\cos(\delta) + I_d R_a  -I_q X_{q
 ```
 ```math
 V_q = V_{1,r}\cos\,\cos(\delta) + V_{1,i} \sin\, \sin(\delta) + I_{d}X_{qpp} + I_{q}R_a
-
-
-
-
+```
 ## Generator 3
 Differential equations: <br>
 ```math
