@@ -63,4 +63,6 @@ $$\dot{\delta} = \omega \cdot \omega_0 $$
 $$\dot{\omega} = \frac{1}{2H}\left( \frac{P_{mech} - D\omega}{1+\omega} - T_{elec}\right) $$
 $$\dot{E_{qp}} = \frac{1}{T_{dop}}\left(  E_{fd} - \left( E_{qp} + X_{d1}\left( I_d + X_{d3}\left( E_{qp} - \psi_{dp} - X_{d2}I_d \right)  \right) + \psi_{dpp}\cdot k_{sat} \right) \right)
 $$
+$$ \dot{\psi}_{dp} = \frac{1}{T_{dopp}} \left( E_{qp} - \psi_{dp} - X_{d2}I_d\right)  $$
+$$dot{\psi}_{qp} = \frac{1}{T_{qopp}} \left( E_{qp} - \psi_{dp} - X_{d2}I_d\right)$$
 
