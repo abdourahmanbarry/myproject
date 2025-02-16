@@ -89,9 +89,9 @@ I_d = I_r\sin\,\sin(\delta) - I_i\cos\,\cos(\delta)
 ```
 ```math
 I_q = I_r\cos\,\cos(\delta) + I_i\sin(\delta)
+```
 
 Network interfaces:
-```
 ```math
 V_d = V_r\sin\,\sin(\delta) - V_i\cos\,\cos(\delta) - (I_d R_a  -I_q X_{qpp})
 ```
