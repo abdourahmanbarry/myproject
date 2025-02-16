@@ -74,5 +74,8 @@ $$\dot{E_{qp}} = \frac{1}{T_{dop}}\left(  E_{fd} - \left( E_{qp} + X_{d1}\left( 
 ```math
 V_d = -\psi_{qpp}(\psi_{qp^{\prime}}E_{dp})(1+\omega)
 ```
+```math
+V_q = -\psi_{dpp}(\psi_{dp^{\prime}}E_{qp})(1+\omega)
+```
 
 
