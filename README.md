@@ -78,10 +78,10 @@ V_d = -\psi_{qpp}(\psi_{qp^{\prime}}E_{dp})(1+\omega)
 V_q = -\psi_{dpp}(\psi_{dp^{\prime}}E_{qp})(1+\omega)
 ```
 ```math
-I_d = I_r\sin\sin(\delta) - I_i\coscos(\delta)
+I_d = I_r\sin\,\sin(\delta) - I_i\cos\,\cos(\delta)
 ```
 ```math
-I_q = I_r\cos\cos(\delta) + I_i\sin(\delta)
+I_q = I_r\cos\,\cos(\delta) + I_i\sin(\delta)
 ```
 
 
