@@ -65,6 +65,8 @@ $$\dot{E_{qp}} = \frac{1}{T_{dop}}\left(  E_{fd} - \left( E_{qp} + X_{d1}\left( 
 ```math
 \dot{\psi}_{dp} = \frac{1}{T_{dopp}} \left( E_{qp} - \psi_{dp} - X_{d2} I_d \right)
 ```
-$$dot{\psi}_{qp} = \frac{1}{T_{qopp}} \left( E_{qp} - \psi_{dp} - X_{d2}I_d\right)$$
+```math
+dot{\psi}_{qp} = \frac{1}{T_{qopp}} \left( E_{qp} - \psi_{dp} - X_{d2}I_d\right)
+```
 
 
