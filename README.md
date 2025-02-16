@@ -60,7 +60,7 @@ I_{G,3}+I_{1,3}+I_{2,3} = 0
 ## Generator 1
 
 ```math
-\dot{\delta} = \omega \cdot \omega_0
-\dot{\omega} = \frac{1}{2H}\left( \frac{P_{mech} - D\omega}{1+\omega} - T_{elec}\right)
+\dot{\delta} = \omega \cdot \omega_0\\
+\dot{\omega} = \frac{1}{2H}\left( \frac{P_{mech} - D\omega}{1+\omega} - T_{elec}\right)\\
 \dot{E_{qp}} = \frac{1}{T_{dop}}\left(  E_{fd} - \left( E_{qp} + X_{d1}\left( I_d + X_{d3}\left( E_{qp} - \xi_{dp} - X_{d2}I_d \right)  \right) + \xi_{dpp}\cdot k_{sat} \right) \right)
 ```
