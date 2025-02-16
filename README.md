@@ -85,18 +85,18 @@ V_d = -\psi_{qpp}(\psi_{qp^{\prime}}E_{dp})(1+\omega)
 V_q = \psi_{dpp}(\psi_{dp^{\prime}}E_{qp})(1+\omega)
 ```
 ```math
-I_d = I_r\sin\,\sin(\delta) - I_i\cos\,\cos(\delta)
+I_d = I_{G,1, r}\sin\,\sin(\delta) - I_{G,1,i}\cos\,\cos(\delta)
 ```
 ```math
-I_q = I_r\cos\,\cos(\delta) + I_i\sin(\delta)
+I_q = I_{G,1, r}\cos\,\cos(\delta) + I_{G,1,i}\sin(\delta)
 ```
 
 Network interfaces:
 ```math
-V_d = V_r\sin\,\sin(\delta) - V_i\cos\,\cos(\delta) + I_d R_a  -I_q X_{qpp}
+V_d = V_{1,r}\sin\,\sin(\delta) - V_{1,i}\cos\,\cos(\delta) + I_d R_a  -I_q X_{qpp}
 ```
 ```math
-V_q = V_r\cos\,\cos(\delta) + V_i \sin\, \sin(\delta) + I_{d}X_{qpp} + I_{q}R_a
+V_q = V_{1,r}\cos\,\cos(\delta) + V_{1,i} \sin\, \sin(\delta) + I_{d}X_{qpp} + I_{q}R_a
 ```
 
 
