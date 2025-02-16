@@ -82,7 +82,7 @@ Algebraic equations:
 V_d = -\psi_{qpp}(\psi_{qp^{\prime}}E_{dp})(1+\omega)
 ```
 ```math
-V_q = -\psi_{dpp}(\psi_{dp^{\prime}}E_{qp})(1+\omega)
+V_q = \psi_{dpp}(\psi_{dp^{\prime}}E_{qp})(1+\omega)
 ```
 ```math
 I_d = I_r\sin\,\sin(\delta) - I_i\cos\,\cos(\delta)
