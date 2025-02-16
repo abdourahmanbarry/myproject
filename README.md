@@ -70,7 +70,7 @@ Differential equations: <br>
 ```
 ```math 
 \dot{\psi}_{dp} = \frac{1}{T_{dopp}} \left( E_{qp} - \psi_{dp} - X_{d2} I_d \right)
-``` <br>
+``` 
 ```math
 \dot{\psi}_{qp} = \frac{1}{T_{qopp}} \left( E_{qp} - \psi_{dp} - X_{d2}I_d\right)
 ```
@@ -80,7 +80,7 @@ Differential equations: <br>
 Algebraic equations:
 ```math
 V_d = -\psi_{qpp}(\psi_{qp^{\prime}}E_{dp})(1+\omega)
-```<br>
+```
 ```math
 V_q = -\psi_{dpp}(\psi_{dp^{\prime}}E_{qp})(1+\omega)
 ```
