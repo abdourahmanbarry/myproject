@@ -75,7 +75,7 @@ Differential equations: <br>
 \dot{\psi}_{qp} = \frac{1}{T_{qopp}} \left( E_{dp} - \psi_{qp} + X_{q2}I_q\right)
 ```
 ```math
-\dot{E}_{dp} = \frac{1}{T_{qop}}\left(-E_{dp} + X_{qd}\psi_{qpp} + X_{q1} \left(I_q - X_{q3} \left(E_{dp} + I_qX_{q2} - \psi_{qp}\right)\right)\right)
+\dot{E}_{dp} = \frac{1}{T_{qop}}\left(-E_{dp} + X_{qd}\psi_{qpp}\cdot k_sat + X_{q1} \left(I_q - X_{q3} \left(E_{dp} + I_qX_{q2} - \psi_{qp}\right)\right)\right)
 ```
 Algebraic equations:
 ```math
