@@ -59,15 +59,24 @@ I_{G,3}+I_{1,3}+I_{2,3} = 0
 
 ## Generator 1
 Differential equations: <br>
-$$\dot{\delta} = \omega \cdot \omega_0 $$ <br>
-$$\dot{\omega} = \frac{1}{2H}\left( \frac{P_{mech} - D\omega}{1+\omega} - T_{elec}\right) $$ <br>
-$$\dot{E_{qp}} = \frac{1}{T_{dop}}\left(  E_{fd} - \left( E_{qp} + X_{d1}\left( I_d + X_{d3}\left( E_{qp} - \psi_{dp} - X_{d2}I_d \right)  \right) + \psi_{dpp}\cdot k_{sat} \right) \right)$$ <br>
+```math
+\dot{\delta} = \omega \cdot \omega_0 $$
+```
+```math
+\dot{\omega} = \frac{1}{2H}\left( \frac{P_{mech} - D\omega}{1+\omega} - T_{elec}\right)
+```
+```math
+\dot{E_{qp}} = \frac{1}{T_{dop}}\left(  E_{fd} - \left( E_{qp} + X_{d1}\left( I_d + X_{d3}\left( E_{qp} - \psi_{dp} - X_{d2}I_d \right)  \right) + \psi_{dpp}\cdot k_{sat} \right) \right)
+```
 ```math 
 \dot{\psi}_{dp} = \frac{1}{T_{dopp}} \left( E_{qp} - \psi_{dp} - X_{d2} I_d \right)
 ``` <br>
-$$\dot{\psi}_{qp} = \frac{1}{T_{qopp}} \left( E_{qp} - \psi_{dp} - X_{d2}I_d\right)$$ <br>
-$$\dot{E}_{dp} = \frac{1}{T_{qop}}\left(-E_{dp} + X_{qd}\psi_{qpp} + X_{q1} \left(I_q - X_{q3} \left(E_{dp} + I_qX_{q2} - \psi_{qp}\right)\right)\right)$$
-
+```math
+\dot{\psi}_{qp} = \frac{1}{T_{qopp}} \left( E_{qp} - \psi_{dp} - X_{d2}I_d\right)
+```
+```math
+\dot{E}_{dp} = \frac{1}{T_{qop}}\left(-E_{dp} + X_{qd}\psi_{qpp} + X_{q1} \left(I_q - X_{q3} \left(E_{dp} + I_qX_{q2} - \psi_{qp}\right)\right)\right)
+```
 Algebraic equations:
 ```math
 V_d = -\psi_{qpp}(\psi_{qp^{\prime}}E_{dp})(1+\omega)
